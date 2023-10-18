@@ -1,0 +1,28 @@
+{
+  "short_name": "TGDATA",
+  "name": "TGDATA",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "type": "image/png",
+      "purpose": "any maskable monochrome",
+      "sizes": "64x64 48x48 32x32 16x16"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "purpose": "any maskable monochrome",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "purpose": "any maskable monochrome",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
